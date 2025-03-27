@@ -35,9 +35,11 @@ OS as abstraction layer between applications and hardware
       * Keeping track of all devices
       * Deciding which process gets the device, when and how long
 4. **Other important tasks**
+
 **Security:**
   * Managing Users and Permissions
   * Each user has its own space and permissions
+  
 **Networking**
   * Ports and IP addresses
   * Transmitting outgoing data from all application ports onto the network, and forwarding arriving network packets to processes 

@@ -40,6 +40,7 @@ The hardware resources are shared So you can only give resources you actually ha
   * Backing up your existing OS
 
 **Why companies adopt Virtualization**
+
 Main benefit: Instead of OS being tightly coupled to the hardware, Virtualization gives an abstraction layer, with the following benefits:
   * Security: Secure very easily
   * Agility and speed: Spinning up a VM is easy and quick, compared to setting up an entire new server
