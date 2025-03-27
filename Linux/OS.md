@@ -1,4 +1,5 @@
 ### Operating System (OS)
+
 **What is an Operating System?**
 OS is a software managing...
 * computer hardware,
@@ -11,7 +12,8 @@ OS as abstraction layer between applications and hardware
 * Apps, like browser can't be installed directly on the hardware
 
 **Tasks of an Operating System**
-1. **Resource Allocation and Management** OS manages resources among applications:
+1. **Resource Allocation and Management** 
+* OS manages resources among applications:
   * Process Management (CPU) :
       * 1 CPU can only process 1 task at a time
       * OS decides which process gets the processor (CPU), when and for how much time and allocates the processor to the process
