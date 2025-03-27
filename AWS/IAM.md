@@ -1,4 +1,4 @@
-### IdenIdentity and Access Management (IAM)
+### Identity and Access Management (IAM)
 * With IAM service you can specify **who can access which services and resources**
 * Create and manage AWS Users and Groups
 * Assign policies (set of permissions)
