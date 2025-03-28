@@ -39,12 +39,3 @@
 
 **sudo**
   * Allows regular users to run programs with the security privileges of the superuser or root
-
-### How to install software
-
-**On Windows**
-  * On Windows you have download installer
-  * Wizards that guide you through the installation
-
-**On Linux**
-  * On Linux you will install applications mostly with package manager tools on CLI
